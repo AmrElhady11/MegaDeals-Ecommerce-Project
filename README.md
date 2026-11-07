@@ -1,4 +1,4 @@
-# MegaDeals E-Commerce Platform
+# MegaDeals E-Commerce 
 
 A microservices-based e-commerce platform built with Java and Spring Boot. MegaDeals is designed to demonstrate modern backend engineering practices, distributed systems concepts, and real-world application architecture.
 
@@ -23,8 +23,6 @@ Key engineering goals:
 The diagram below illustrates the current high-level system design.
 
 ![MegaDeals E-Commerce Architecture](diagrams/mega-deals.drawio.svg)
-
-> The diagram is stored in [`diagrams/mega-deals.drawio.svg`](diagrams/mega-deals.drawio.svg). Keep this relative path when uploading the README and diagram to GitHub so the image renders correctly.
 
 ## System Actors
 
